@@ -6,7 +6,7 @@ let resultStorage = "results";
 
 
 let price = 25;  //replace *25
-let tel = "525545520919";
+let tel = "525559977927";
 let nPartidos = 10;
 let partidoSup = false;
 
