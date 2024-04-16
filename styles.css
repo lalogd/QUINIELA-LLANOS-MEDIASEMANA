@@ -84,12 +84,12 @@ h1{
     background-color: teal;
     text-align: center;
     padding: 7px;
-    color: rgb(254, 1, 1);
+    color: rgb(16, 16, 16);
     margin-top: 6%;
     /* border: solid 1px black; */
     border-radius: 0 0 14px 14px;
     background: -webkit-linear-gradient(0.04turn, rgb(75, 75, 76)  ,rgb(8, 8, 8) 80%);
-    background: linear-gradient(0.04turn, rgb(45, 244, 5)  ,rgb(45, 244, 5) 80%);
+    background: linear-gradient(0.04turn, rgb(5, 68, 255)  ,rgb(247, 249, 245) 80%);
     font-size: x-large;
 }
 
@@ -251,7 +251,7 @@ h6{
     border-radius: 3px;
 }
 .reglas {
-    background: #e20101;
+    background: #eee204;
     border-radius: 10px;
     border: 1px solid rgb(13, 13, 13);
     font-size: 13px;
